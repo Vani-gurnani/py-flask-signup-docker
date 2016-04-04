@@ -490,6 +490,7 @@
               "curl -O -L https://updates.jenkins-ci.org/latest/github.hpi\n",
               "curl -O -L https://updates.jenkins-ci.org/latest/git.hpi\n",
               "curl -O -L https://updates.jenkins-ci.org/latest/dockerhub.hpi\n",
+              "curl -O -L https://updates.jenkins-ci.org/latest/amazon-ecr.hpi\n",
               "chown jenkins:jenkins *.hpi\n",
 
               "# Restarting Jenkins\n",
